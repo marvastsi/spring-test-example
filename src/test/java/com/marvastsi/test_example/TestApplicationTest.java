@@ -1,4 +1,4 @@
-package com.marvastsi.todo_project;
+package com.marvastsi.test_example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package com.marvastsi.todo.config;
+package com.marvastsi.test_example.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
