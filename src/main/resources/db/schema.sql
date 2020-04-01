@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS public.user
+(
+    id BIGINT AUTO_INCREMENT NOT NULL,
+    name VARCHAR(255),
+    CONSTRAINT user_pkey PRIMARY KEY (id)
+);
